@@ -1,0 +1,1463 @@
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.7723) 132.68387 || 188.24573 || 148.4635 || 234.55136
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.8640) 79.72916 || 150.48149 || 126.25477 || 173.64647
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.7873) 7.8525825 || 95.27732 || 119.83282 || 146.20058
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.8522) 189.43045 || 217.81332 || 248.9324 || 252.93523
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9642) 207.69304 || 110.8738 || 262.90073 || 147.77003
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9575) 120.5353 || 88.20532 || 195.61311 || 130.12007
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9936) 37.262356 || 173.90189 || 109.929596 || 224.12413
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.8970) 18.457384 || 210.37198 || 105.09501 || 243.01752
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9493) 115.92031 || 92.395935 || 218.22784 || 126.62603
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9576) 9.462664 || 122.592865 || 33.288387 || 152.73193
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.9562) 183.96005 || 219.22676 || 213.95335 || 255.15582
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.9712) 244.56303 || 221.98729 || 273.89648 || 251.56729
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.6532) 215.80737 || 175.34052 || 231.77754 || 219.62634
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.8750) 68.43232 || 138.79668 || 84.20952 || 172.40916
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.7502) 13.156569 || 154.93129 || 30.142893 || 183.41287
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.9179) 181.8391 || 231.43886 || 196.78499 || 273.30408
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.6162) 253.08038 || 202.65372 || 264.89343 || 247.37018
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.8569) 188.11948 || 226.86478 || 202.60075 || 264.4181
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9766) 25.42803 || 236.13821 || 51.09896 || 267.5886
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.8690) 100.78042 || 120.901596 || 148.66089 || 146.87947
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.8885) 157.34958 || 238.02669 || 183.15541 || 273.14777
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.9485) 23.283186 || 240.07477 || 47.39373 || 267.11087
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.8129) 221.28671 || 205.928 || 239.77942 || 261.07233
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.9305) 10.932532 || 222.0724 || 27.120764 || 265.0686
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.7924) 19.000582 || 103.797 || 43.117573 || 134.39615
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.9767) 67.06503 || 236.82538 || 180.1113 || 265.05533
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.9157) 40.934246 || 110.48339 || 159.60176 || 139.4143
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.6758) 74.55641 || 238.56079 || 122.91917 || 271.6344
+
+GROUND TRUTH FOR: o
+label: 0 || 448.0 || 1 || 1 || 0
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.8222) 6.5963945 || 106.69824 || 45.239864 || 132.09335
+2 label: 不带电芯充电宝 score: tensor(0.7711) 240.01164 || 143.13374 || 262.91434 || 180.16046
+3 label: 不带电芯充电宝 score: tensor(0.6872) 181.0732 || 222.57982 || 201.98322 || 253.93361
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.7511) 30.213211 || 224.50761 || 118.10755 || 252.70317
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.8119) 64.66299 || 110.08133 || 99.68883 || 133.70517
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.9462) 100.80208 || 170.86363 || 127.621346 || 203.87976
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.9136) 13.2885685 || 218.4875 || 36.649197 || 251.54626
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.8763) 77.493546 || 221.26361 || 168.26387 || 247.04349
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.9579) 95.9793 || 99.60128 || 206.67072 || 128.50058
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.9188) 155.35939 || 135.84221 || 177.39911 || 170.97708
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.9388) 34.8592 || 106.5648 || 56.133747 || 138.11957
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.9952) 88.65046 || 94.258675 || 171.78625 || 143.75528
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.9155) 177.85703 || 134.24878 || 203.7004 || 160.64644
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.8347) 8.699706 || 215.2942 || 27.175869 || 242.55276
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.8238) 262.0795 || 202.68611 || 279.1358 || 250.85359
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.9676) 180.59134 || 166.5782 || 252.98717 || 201.59264
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.9391) 31.502987 || 128.05606 || 53.263996 || 165.89162
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9667) 39.93806 || 201.04266 || 151.3886 || 233.3539
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9921) 79.96105 || 129.72833 || 150.63293 || 176.52855
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9180) 174.52303 || 244.38594 || 225.37238 || 277.10898
+2 label: 不带电芯充电宝 score: tensor(0.8892) 53.485577 || 114.67943 || 108.949974 || 131.69154
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9475) 210.22214 || 123.68591 || 228.08806 || 171.72069
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.8342) 89.62225 || 108.47116 || 113.17817 || 159.13133
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.8913) 31.590302 || 139.6917 || 57.210506 || 188.07419
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9073) 166.73592 || 172.04927 || 191.45956 || 205.91846
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.8638) 125.35651 || 237.88455 || 201.4566 || 276.52783
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9222) 174.0896 || 240.1775 || 200.31133 || 270.5337
+2 label: 不带电芯充电宝 score: tensor(0.6807) 243.67188 || 190.97339 || 264.81595 || 239.07419
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.7645) 127.95937 || 226.66779 || 144.5378 || 273.60892
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.9067) 155.59837 || 156.27219 || 184.05962 || 194.50745
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.9354) 156.24045 || 107.232216 || 170.06465 || 143.6663
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.8320) 111.8676 || 168.04955 || 126.505104 || 221.70952
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.9360) 37.676113 || 110.06926 || 162.91017 || 136.6732
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.6973) 183.16603 || 213.65172 || 240.14066 || 238.83215
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.9735) 116.6098 || 134.05844 || 188.07233 || 168.77791
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.9495) 137.02206 || 161.83466 || 162.65297 || 197.0137
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.8631) 233.90506 || 199.83698 || 275.39838 || 234.24718
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.9543) 18.81195 || 98.993355 || 39.295143 || 133.12978
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.7737) 47.6013 || 201.37936 || 77.2125 || 230.3092
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.9560) 195.32509 || 207.2264 || 231.41016 || 256.89456
+2 label: 带电芯充电宝 score: tensor(0.8161) 233.97263 || 198.54294 || 264.00235 || 232.29477
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.9309) 205.09554 || 145.22307 || 246.56598 || 169.99966
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.7052) 238.23372 || 221.85922 || 253.4212 || 262.76035
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.9487) 120.153114 || 220.39015 || 138.78275 || 257.50156
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.8911) 226.87996 || 86.435234 || 277.2691 || 127.22656
+2 label: 不带电芯充电宝 score: tensor(0.9373) 179.65526 || 92.10363 || 222.40585 || 139.8125
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.8405) 228.57315 || 146.63564 || 249.44556 || 189.85011
+2 label: 不带电芯充电宝 score: tensor(0.9413) 85.38787 || 145.06253 || 101.80294 || 196.02463
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.9310) 216.29071 || 162.95554 || 240.7187 || 205.93327
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.9492) 3.504548 || 156.45874 || 19.510624 || 204.48698
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.6450) 124.7466 || 233.32088 || 188.80371 || 250.53761
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.9154) 16.595371 || 103.388596 || 82.55225 || 139.26761
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.9158) 19.183533 || 206.0421 || 49.05264 || 238.72507
+2 label: 不带电芯充电宝 score: tensor(0.6322) 209.73079 || 88.635414 || 257.99466 || 117.03606
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.8401) 240.35666 || 216.23979 || 264.82236 || 243.71484
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.8223) 33.74926 || 123.0929 || 89.01162 || 160.81952
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.9456) 168.45757 || 97.43469 || 189.13951 || 133.82472
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.9006) 226.08228 || 106.66597 || 243.28102 || 141.94553
+2 label: 带电芯充电宝 score: tensor(0.6060) 21.635305 || 164.83089 || 40.989285 || 195.86667
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.7965) 127.88836 || 157.49556 || 143.04295 || 208.10695
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.8655) 14.901319 || 123.9697 || 58.87041 || 156.94478
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.9486) 149.83002 || 233.3373 || 191.72998 || 269.9721
+2 label: 不带电芯充电宝 score: tensor(0.7730) 260.48572 || 182.45729 || 280.1598 || 229.1945
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.9129) 55.67792 || 127.01709 || 94.357124 || 165.69397
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.8352) 191.93652 || 228.9921 || 263.8595 || 262.06332
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.7799) 6.2544103 || 127.64969 || 20.659296 || 173.34377
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.9876) 144.76047 || 211.74261 || 228.01137 || 247.89665
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.6412) 159.72351 || 211.25963 || 245.39906 || 238.907
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.8714) 56.971127 || 231.5782 || 181.61444 || 255.92358
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.7030) 229.10022 || 134.1853 || 266.63034 || 168.75093
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.9503) 181.43018 || 99.93022 || 199.30083 || 138.28741
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.9702) 84.73772 || 136.3285 || 115.43436 || 172.04541
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.9678) 28.245928 || 180.17612 || 71.59951 || 221.02628
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.8889) 8.341763 || 171.23364 || 26.645525 || 208.81177
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.7030) 44.046753 || 103.534744 || 86.96355 || 136.5736
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.9923) 143.94566 || 157.67564 || 187.7843 || 205.36023
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.6264) 26.852676 || 224.74666 || 92.30083 || 244.79324
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.9631) 217.94821 || 181.71678 || 242.41278 || 213.21074
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.9192) 128.26852 || 141.62822 || 147.55177 || 179.67825
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.9155) 59.93928 || 222.76964 || 92.93879 || 250.23663
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.9913) 116.034225 || 176.75761 || 189.48473 || 217.32756
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.6353) 191.96243 || 103.15206 || 206.86905 || 143.93439
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.8472) 24.48488 || 129.07819 || 42.727066 || 162.67674
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.7575) 197.1372 || 103.14955 || 246.35646 || 127.20061
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.7431) 97.750374 || 101.00172 || 206.44441 || 125.72904
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.9073) 12.635502 || 183.15102 || 28.394764 || 227.78363
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.9878) 37.10389 || 194.07703 || 105.56519 || 235.31245
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.9933) 172.30602 || 205.97673 || 226.50372 || 258.3618
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.8506) 68.95436 || 218.47304 || 98.65956 || 252.66753
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.7330) 78.22033 || 206.93425 || 135.1808 || 243.79434
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.8446) 135.79501 || 212.40253 || 164.03258 || 247.92137
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.8002) 83.431854 || 128.97949 || 104.91084 || 179.81335
+2 label: 不带电芯充电宝 score: tensor(0.9296) 146.97014 || 204.87814 || 170.92105 || 241.24908
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.9607) 230.54292 || 210.0152 || 252.41644 || 248.67761
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.7021) 93.47338 || 224.5448 || 146.83698 || 258.52267
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.8361) 98.89552 || 110.18427 || 116.770676 || 144.9892
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.8899) 186.20348 || 118.665825 || 222.7419 || 143.29025
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.8197) 42.219936 || 112.480034 || 62.71878 || 143.5732
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.7898) 102.44828 || 93.4041 || 129.4571 || 127.98218
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.9552) 64.64729 || 209.93947 || 84.13446 || 242.0306
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.8595) 167.71693 || 205.3266 || 187.78537 || 239.13449
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.8654) 159.6388 || 98.90519 || 233.76074 || 131.69229
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.9550) 81.016106 || 139.21426 || 103.65944 || 174.85098
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.9303) 156.18066 || 112.56554 || 182.55484 || 137.55115
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.8441) 99.275734 || 142.77174 || 114.62126 || 179.04254
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.8931) 85.89488 || 165.07553 || 101.81487 || 217.31718
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.9612) 48.84604 || 131.23767 || 67.942986 || 165.67665
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.9297) 46.645267 || 138.44092 || 91.278824 || 174.45023
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.9549) 71.788704 || 195.03903 || 113.42328 || 243.0384
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.8469) 53.888626 || 160.91212 || 77.76246 || 190.03874
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.9514) 186.50136 || 111.41629 || 228.95694 || 159.63072
+2 label: 不带电芯充电宝 score: tensor(0.9779) 17.983995 || 111.3289 || 58.565174 || 149.17215
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.7962) 159.78238 || 155.4637 || 177.64629 || 207.69138
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.6242) 66.67996 || 209.84271 || 82.31709 || 255.37814
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.9128) 234.6216 || 179.18896 || 256.5849 || 210.58685
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.6576) 74.52444 || 207.16951 || 90.87807 || 260.6046
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.7909) 164.97977 || 108.199326 || 238.52185 || 138.71793
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.8840) 12.066689 || 112.333954 || 36.872814 || 145.90672
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.9175) 179.3645 || 136.65971 || 199.43515 || 166.32219
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.7726) 110.81059 || 207.7761 || 188.92966 || 241.52661
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.9118) 142.58318 || 156.35191 || 170.04117 || 190.00417
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.8559) 162.42117 || 155.90376 || 195.18127 || 189.65411
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.9418) 34.539158 || 231.87892 || 104.331085 || 265.1707
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.9896) 171.09636 || 113.42777 || 225.61894 || 163.77806
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.8379) 249.02226 || 110.271576 || 272.48123 || 150.86986
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.9074) 28.749569 || 110.70347 || 54.759514 || 135.26892
+2 label: 带电芯充电宝 score: tensor(0.8696) 276.90054 || 204.45442 || 296.5195 || 240.07901
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.9352) 128.47116 || 227.72253 || 153.25931 || 259.71234
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.6455) 146.24762 || 211.91397 || 163.82968 || 267.7092
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.6256) 165.09126 || 170.25407 || 182.94931 || 204.54094
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.8060) 80.35182 || 220.67953 || 95.339096 || 260.11414
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.9232) 283.52475 || 159.36263 || 299.2391 || 196.66837
+2 label: 带电芯充电宝 score: tensor(0.7853) 85.495605 || 163.16386 || 104.38763 || 200.47769
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.7123) 245.7413 || 122.938126 || 265.42133 || 152.39993
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.7346) 141.30331 || 215.86522 || 161.46239 || 249.65474
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.9467) 59.910492 || 186.59273 || 99.66926 || 240.03908
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.8389) 132.14458 || 212.99982 || 154.8494 || 255.8854
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 带电芯充电宝 score: tensor(0.7848) 124.413246 || 187.04591 || 146.71548 || 221.01051
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.7764) 69.654144 || 116.32057 || 105.52055 || 175.80882
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9520) 9.651857 || 117.24269 || 55.456524 || 150.2578
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.6562) 130.35507 || 88.55814 || 154.52562 || 113.77307
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.8855) 59.621685 || 172.78543 || 81.139915 || 211.04567
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9580) 187.67224 || 210.84938 || 202.73242 || 256.33942
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9078) 107.052216 || 158.3001 || 129.41417 || 206.29189
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9647) 222.46454 || 145.42041 || 257.75522 || 183.31313
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9583) 122.55053 || 158.07054 || 152.26051 || 186.86914
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.8001) 99.80434 || 227.59813 || 219.29807 || 258.3781
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9174) 19.047234 || 206.14807 || 38.0114 || 254.56912
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.7704) 86.59865 || 156.70953 || 105.480736 || 198.61894
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.8274) 15.815842 || 95.37876 || 67.902214 || 126.56881
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.8305) 6.613594 || 205.753 || 22.217247 || 255.29056
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9919) 94.58837 || 133.37556 || 184.74644 || 177.43126
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9905) 37.6368 || 218.1186 || 76.73382 || 256.58005
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9769) 224.73634 || 121.755394 || 271.90436 || 162.3851
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9620) 86.07384 || 236.38896 || 178.5946 || 267.76013
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9605) 40.575283 || 211.83286 || 92.11024 || 243.76593
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9416) 63.450016 || 186.93445 || 123.19561 || 234.26927
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9908) 96.77909 || 132.05722 || 177.1352 || 167.60966
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9640) 16.26561 || 164.0438 || 65.32857 || 225.3134
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9023) 211.82123 || 160.79701 || 247.19453 || 190.744
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.8798) 122.94143 || 216.93661 || 164.20963 || 247.37651
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9155) 48.076653 || 216.11282 || 177.2125 || 247.34879
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.8530) 183.77786 || 140.99466 || 200.9432 || 185.10555
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.8547) 123.88649 || 232.73474 || 144.03271 || 265.96143
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.8971) 104.25605 || 217.91306 || 232.00958 || 245.7628
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9622) 0.7870048 || 219.67216 || 24.224985 || 252.99265
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.8144) 260.75894 || 101.91931 || 277.05447 || 153.7266
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.6310) 128.16454 || 153.56128 || 152.37105 || 181.0937
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9039) 207.86249 || 140.55882 || 263.26315 || 172.7394
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9525) 45.524128 || 218.3499 || 61.647182 || 267.375
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.8174) 136.5233 || 103.51616 || 206.93457 || 135.95981
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9870) 159.19669 || 178.22159 || 222.379 || 224.28578
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9445) 119.91099 || 159.51826 || 152.18875 || 206.55951
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.7825) 36.92315 || 87.88413 || 59.20366 || 115.23509
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.6559) 36.00768 || 170.85475 || 76.706856 || 216.01256
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.6368) 159.21341 || 222.17314 || 231.94385 || 255.96582
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9418) 111.00531 || 107.678635 || 221.82887 || 133.73964
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9218) 83.423584 || 147.38371 || 202.13441 || 181.09657
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.6102) 67.75712 || 175.94598 || 149.53987 || 203.72586
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9552) 229.43217 || 171.2365 || 267.77786 || 237.64261
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9933) 23.609386 || 143.42946 || 83.95575 || 192.30165
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.6825) 168.73569 || 123.08296 || 186.04837 || 181.29988
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9930) 199.45204 || 160.50415 || 259.79852 || 210.64632
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.7729) 146.33017 || 115.596596 || 169.46585 || 141.42154
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9620) 175.29759 || 131.04158 || 213.1818 || 179.4625
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9060) 274.12943 || 163.97305 || 297.20215 || 191.48682
+2 label: 不带电芯充电宝 score: tensor(0.9030) 61.754875 || 205.10475 || 77.22825 || 254.91019
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9755) 49.52299 || 184.32803 || 90.190674 || 217.92744
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9930) 152.63803 || 193.4428 || 238.80405 || 245.14453
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9907) 91.20128 || 106.24304 || 158.89012 || 161.68887
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9337) 221.52312 || 164.74564 || 286.64523 || 208.72299
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.6961) 67.88752 || 211.46237 || 205.62099 || 252.03163
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9226) 225.88907 || 233.96964 || 258.4009 || 254.8842
+2 label: 不带电芯充电宝 score: tensor(0.6474) 285.2502 || 198.18834 || 299.5525 || 234.72136
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9792) 93.930016 || 115.558784 || 123.50464 || 145.1084
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.7018) 180.32031 || 228.54927 || 255.98967 || 258.16888
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9809) 196.8105 || 98.24832 || 248.7398 || 134.06009
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9263) 73.6813 || 93.27953 || 186.86496 || 122.72309
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9773) 48.586872 || 231.4086 || 167.47717 || 265.75757
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.6444) 178.16003 || 115.47441 || 192.6632 || 155.14491
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.7011) 193.92169 || 104.57096 || 219.60835 || 155.13857
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9895) 41.147682 || 130.67902 || 102.967766 || 187.67366
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.8559) 98.199036 || 149.59769 || 113.89504 || 194.96935
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.7155) 283.2268 || 211.65428 || 300.23047 || 251.2911
+2 label: 不带电芯充电宝 score: tensor(0.6722) 156.97905 || 123.08136 || 179.19026 || 156.49243
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9511) 210.15358 || 97.25687 || 239.3725 || 129.18576
+2 label: 不带电芯充电宝 score: tensor(0.8263) 52.691193 || 141.4078 || 82.23365 || 170.53195
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9051) 116.19333 || 105.440445 || 228.9769 || 131.5653
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.8457) 75.51416 || 126.020775 || 190.13286 || 157.5375
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9712) 76.48097 || 108.71469 || 110.516235 || 135.98955
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9813) 218.92664 || 142.1469 || 267.94574 || 199.10669
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.8858) 223.5747 || 163.12462 || 244.3562 || 210.16734
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.8835) 97.087166 || 175.34718 || 143.54005 || 203.91353
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9636) 234.81259 || 150.12692 || 281.49542 || 201.42128
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.8883) 189.9501 || 102.916824 || 216.89174 || 143.29654
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.8119) 201.71796 || 161.74297 || 227.04414 || 210.08817
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9259) 181.76881 || 155.62402 || 214.50189 || 206.31314
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9167) 217.446 || 125.819 || 241.22437 || 166.3246
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9824) 112.989586 || 184.99886 || 200.09515 || 217.10277
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.7537) 23.537882 || 206.21231 || 56.01708 || 256.22153
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9562) 153.772 || 100.14136 || 181.13698 || 130.7674
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.8558) 154.40742 || 159.84357 || 171.08795 || 208.09146
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.8077) 30.558716 || 189.43883 || 47.079014 || 241.23793
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9726) 110.18223 || 194.97816 || 141.8423 || 227.08057
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9627) 68.00673 || 157.45676 || 103.00269 || 207.91344
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9197) 211.37003 || 144.15897 || 266.44745 || 182.07547
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.8049) 70.773705 || 155.43494 || 143.89963 || 195.19977
+2 label: 不带电芯充电宝 score: tensor(0.7324) 127.62703 || 130.07045 || 174.25864 || 174.18799
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.8019) 49.62978 || 188.657 || 65.2832 || 239.29794
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9752) 176.69096 || 98.5701 || 226.13643 || 139.6863
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9546) 55.742138 || 166.72696 || 133.1576 || 200.95625
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.6884) 42.923363 || 134.12616 || 62.16343 || 188.93645
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9817) 138.6735 || 114.40017 || 188.18246 || 156.30838
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9371) 64.69213 || 102.43954 || 111.47098 || 128.38712
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9723) 175.4865 || 102.990845 || 273.293 || 140.89037
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9711) 181.87099 || 183.90424 || 253.18996 || 233.44688
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9757) 133.69713 || 227.42188 || 163.42046 || 256.438
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9600) 169.53003 || 141.63737 || 202.47618 || 172.43538
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.8943) 143.60628 || 186.52084 || 198.10532 || 218.08797
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9473) 44.673004 || 189.5994 || 76.509384 || 230.90836
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9770) 10.8809395 || 233.94154 || 44.94765 || 269.99365
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9406) 205.66109 || 173.15216 || 272.11475 || 228.44444
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9761) 119.95371 || 173.26276 || 146.93611 || 202.2005
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9727) 154.3689 || 162.13174 || 204.24248 || 219.82912
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9559) 231.27635 || 208.17274 || 262.34235 || 247.91214
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9689) 86.30845 || 241.3254 || 117.05038 || 273.69418
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9301) 170.73932 || 136.7735 || 192.57607 || 181.00888
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9693) 35.371273 || 100.14489 || 71.75194 || 131.2681
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.8649) 68.54411 || 93.5997 || 113.91485 || 119.4206
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.8448) 42.922318 || 201.40428 || 71.66075 || 236.54916
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.7187) 286.10785 || 154.22362 || 299.28326 || 197.56514
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9576) 33.876926 || 230.774 || 157.551 || 262.77792
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9356) 246.13889 || 211.11383 || 271.32123 || 238.98833
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.9331) 97.05655 || 208.04146 || 115.1312 || 246.41512
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.8933) 100.32059 || 113.623726 || 134.4348 || 165.26259
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.8883) 229.17958 || 199.39047 || 252.91653 || 244.85396
+
+GROUND TRUTH FOR: o
+label: 0 || 0 || 0 || 0 || 3
+PREDICTIONS: 
+1 label: 不带电芯充电宝 score: tensor(0.8901) 84.25399 || 102.666916 || 199.87987 || 130.57948
