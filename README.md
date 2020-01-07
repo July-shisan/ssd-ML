@@ -13,7 +13,7 @@ calculate_map_test.py为 MAP计算部分代码
 
 test.py为测试部分代码
 
-运行环境为anaconda 3.5 + python3.7 + pytorch 1.2(cuda) + opencv2
+运行环境为anaconda 4.8 + python3.7 + pytorch 1.2(cuda) + opencv2
 
 运行train.py用VGG网络训练90000次，将训练之后的模型保存为weights/ssd_90000.pth
 
